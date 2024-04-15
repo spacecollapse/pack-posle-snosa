@@ -3,7 +3,9 @@
 пак после сноса винды 
 
 Убрал ненужную хуйню и добавил больше информации в текстовый файл, скачать можно - https://disk.yandex.ru/d/uB6-5JpiuFU2yQ
+
 либо на гитхабе 
+
 https://github.com/spacecollapse/cheats/releases/download/ex/packwindows.zip
 
 
